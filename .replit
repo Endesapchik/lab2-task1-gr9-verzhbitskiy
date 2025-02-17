@@ -1,2 +1,2 @@
 language = "c"
-run = "gcc -o hello ./src/hello.c && ./hello"
+run = "gcc -o hello ./src/main.c && ./hello"
